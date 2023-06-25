@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou ANA FLAVIA!
-- 👀 Atualmente sou estudante de Front-End
-- 🌱 HTML, CSS, JavaScript, Git e GitHub
-- 💞️ Estou aprendento criar meus primeiros projetos
+- 👀 Atualmente sou estudante de Front-End, mas isso é só o começo da minha jornada.
+- 🌱 Estudo HTML, CSS, JavaScript, Git e GitHub
+- 💞️ Estou aprendento criar meus primeiros projetos e estou amando.
 - 📫 Meu e-mail: devanaflavia@gmail.com
 
 <!---
